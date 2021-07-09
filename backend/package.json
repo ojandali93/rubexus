@@ -4,7 +4,8 @@
   "description": "app-package backend requirments",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runapp": "nodemon ./server/index.js"
   },
   "author": "Omar Jandali",
   "license": "ISC",
