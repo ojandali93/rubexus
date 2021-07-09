@@ -1,0 +1,19 @@
+{
+  "name": "rubexus-app",
+  "version": "1.0.0",
+  "description": "app-package requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojandali93/rubexus.git"
+  },
+  "author": "Omar Jandali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojandali93/rubexus/issues"
+  },
+  "homepage": "https://github.com/ojandali93/rubexus#readme"
+}
